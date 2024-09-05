@@ -1,0 +1,6 @@
+if SHIELD_ICETRAY
+
+config ZMK_KEYBOARD_NAME
+    default "icetray"
+
+endif
